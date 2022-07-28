@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Splash&display=swap');
+.all-text-center{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.btn {
+    background: var(--main-bg-color);
+    width: 70px;
+    height: 25px;
+    border: 2px solid white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.my-2{
+    margin: 26px auto;
+    font-family: 'Lato', sans-serif;
+
+}
+.my-1{
+    margin: 5px auto;
+    
+}
+.text-center{
+    text-align: center;
+}
